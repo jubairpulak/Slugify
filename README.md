@@ -12,6 +12,7 @@ Slugify object and Return String, Yeah, You can make slugify using more than one
 Then...
 
 ...
+
 const slugify = require('jslugify)
 
 //make slugify using one variable
