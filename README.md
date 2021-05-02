@@ -13,7 +13,7 @@ Then...
 
 ...
 
-const slugify = require('jslugify)
+const slugify = require("jslugify")
 
 //make slugify using one variable
 
