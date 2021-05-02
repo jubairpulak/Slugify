@@ -18,14 +18,19 @@ const {slugify} = require("jslugify")
 //make slugify using one variable
 
 let obj = {}
-obj.productname =req.body.productname
+
+obj.productname = req.body.productname
+
 slugify(obj) //return product-name
 
 //Make slugify using two variable
 
 let obj = {}
+
 obj.firstname = req.body.firstname
+
 obj.lastname = req.body.lastname
+
 slugify(obj) //return firstname-lastname
 ...
 
