@@ -25,13 +25,18 @@ slugify(obj) //return product-name
 
 //Make slugify using two variable
 
-let obj = {}
+![image](https://user-images.githubusercontent.com/24719971/116826836-e4261d00-abb7-11eb-9a8e-91c1b620ca54.png)
 
-obj.firstname = req.body.firstname
+![image](https://user-images.githubusercontent.com/24719971/116826849-f607c000-abb7-11eb-991f-6ca9505bcd90.png)
 
-obj.lastname = req.body.lastname
 
-slugify(obj) //return firstname-lastname
+##Using another two opitons(lowercase, replacement)
+
+![image](https://user-images.githubusercontent.com/24719971/116826950-7dedca00-abb8-11eb-857e-6602895305a9.png)
+
+![image](https://user-images.githubusercontent.com/24719971/116826959-8b0ab900-abb8-11eb-9541-a6fec7be32fd.png)
+
+
 ...
 
 ## Options
